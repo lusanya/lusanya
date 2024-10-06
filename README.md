@@ -6,7 +6,7 @@
 - 
 - 📫 How to reach me ...You can reach me through my email adress:morganwanjala121@gmail.com or contact via phone:+254793610654
 - 😄 Pronouns: ...he
-- ⚡ Fun fact: ...Every fool knows the point is to understand
+- ⚡ Fun fact: ...a computer is a foolish machine that obeys instructions.
 
 <!---
 lusanya/lusanya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
